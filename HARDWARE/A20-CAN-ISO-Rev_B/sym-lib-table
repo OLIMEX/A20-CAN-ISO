@@ -1,0 +1,3 @@
+(sym_lib_table
+ (lib (name A20-CAN-ISO_Rev_B)(type Legacy)(uri ${KIPRJMOD}/A20-CAN-ISO_Rev_B.lib)(options "")(descr ""))
+)
